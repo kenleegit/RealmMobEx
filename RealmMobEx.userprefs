@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D22837F0-2902-4CCE-ADC7-6DE8A2A619B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealmMobEx Status">
+    <Files>
+      <File FileName="RealmMobEx/Employee.cs" Line="21" Column="2" />
+      <File FileName="RealmMobEx/App.xaml.cs" Line="15" Column="42" />
+      <File FileName="RealmMobEx/MainPage.xaml.cs" Line="37" Column="38" />
+      <File FileName="RealmMobEx/MainPage.xaml" Line="41" Column="15" />
+      <File FileName="RealmMobEx/ShowEmp.xaml" Line="37" Column="15" />
+      <File FileName="RealmMobEx/ShowEmp.xaml.cs" Line="26" Column="38" />
+      <File FileName="RealmMobEx/EditEmp.xaml" Line="14" Column="17" />
+      <File FileName="RealmMobEx/EditEmp.xaml.cs" Line="34" Column="4" />
+      <File FileName="RealmMobEx/AddEmp.xaml" Line="27" Column="15" />
+      <File FileName="RealmMobEx/AddEmp.xaml.cs" Line="34" Column="2" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/5.4.1/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="2011" Column="29" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="RealmMobEx/App.xaml" Line="7" Column="1" />
+      <File FileName="RealmMobEx Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RealmMobEx.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F9FD5E4-753C-4DC6-AF41-B6AE9A6E87E9" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RealmMobEx.Droid PreferredExecutionTarget="Android.06a063cf" />
+  <MultiItemStartupConfigurations />
+</Properties>
